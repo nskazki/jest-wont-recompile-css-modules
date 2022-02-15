@@ -6,7 +6,8 @@
   "license": "MIT",
   "homepage": "https://github.com/nskazki/jest-wont-recompile-css-modules#readme",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test-no-cache": "jest --no-cache"
   },
   "devDependencies": {
     "jest": "^27.5.1",
