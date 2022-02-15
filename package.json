@@ -4,5 +4,13 @@
   "author": "nskazki@gmail.com",
   "version": "0.0.1",
   "license": "MIT",
-  "homepage": "https://github.com/nskazki/jest-wont-recompile-css-modules#readme"
+  "homepage": "https://github.com/nskazki/jest-wont-recompile-css-modules#readme",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1",
+    "jest-css-modules-transform": "^4.3.0",
+    "node-sass": "^7.0.1"
+  }
 }
