@@ -1,6 +1,6 @@
 # Issue
 
-Jest won't recompile CSS modules when their dependencies change unless you wipe Jest's cache.
+https://github.com/Connormiha/jest-css-modules-transform/issues/48 - Jest won't recompile CSS modules when their dependencies change unless you wipe Jest's cache.
 
 # How to Reproduce
 
