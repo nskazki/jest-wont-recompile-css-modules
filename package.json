@@ -1,0 +1,8 @@
+{
+  "name": "jest-wont-recompile-css-modules",
+  "description": "Jest doesn't recompile CSS modules when their dependencies change",
+  "author": "nskazki@gmail.com",
+  "version": "0.0.1",
+  "license": "MIT",
+  "homepage": "https://github.com/nskazki/jest-wont-recompile-css-modules#readme"
+}
